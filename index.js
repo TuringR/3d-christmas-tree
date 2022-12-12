@@ -5,7 +5,7 @@ startButton.addEventListener('click', start)
 
 // 打字机效果
 $('.example1').typeIt({
-  whatToType: "牛魔酬宾宁子欣 圣诞树谁还不会了 别让我逮到你奥.",
+  whatToType: "牛魔酬宾宁子欣 圣诞树谁还没有了.",
   typeSpeed: 100,
 }, ()=>{});
 
